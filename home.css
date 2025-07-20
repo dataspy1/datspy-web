@@ -196,5 +196,6 @@ nav ul li a:hover {
 
   .hamburger {
     display: flex;
+    justify-content:right;
   }
 }
